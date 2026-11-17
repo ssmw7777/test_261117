@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+items.json
+items.json.tmp
+.playwright-mcp/
